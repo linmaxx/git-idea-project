@@ -5,6 +5,6 @@
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("测试 github");
+        System.out.println("从 github 同步项目");
     }
 }
